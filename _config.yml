@@ -22,7 +22,7 @@ avatar_image: /img/profile_picture2.jpg
 
 #-------------------------------
 # Contact links
-linkedln: "https://www.linkedin.com/in/adipere-juokemefa-424b7912a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" # Add your linkedln handle
+linkedln: "https://www.linkedin.com/in/adipere-juokemefa" # Add your linkedln handle
 github: "https://github.com/adipere25"  # Add your github handle
 
 paginate: 6
@@ -51,6 +51,7 @@ defaults:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
 
 
 
